@@ -2,3 +2,5 @@
 semuanya saya yang kelola all in
 ya begitulah
 tes aja
+
+sekarang dengan ssh
