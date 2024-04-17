@@ -1,1 +1,3 @@
 # ProjectOne
+saya sedang belajar python
+ganbateeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
